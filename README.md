@@ -8,3 +8,5 @@ Jeśli podana liczba będzie za mała, równiez dostaniemy o tym informację!
 Highscore to miejsce na najlepszy uzyskany wynik, inaczej tłumacząc na najniższą ilość straconych żyć.
 Jeśli odgadniemy liczbę za 5 razem Highscore wyświetli: 15!
 Jeśli kolejnym razem zgadniemy liczbę szybciej, np. za 2 razem, Highscore wyświetli: 18!
+
+Aby zagrac ponownie wystarczy nacisnąć przycisk Again!
