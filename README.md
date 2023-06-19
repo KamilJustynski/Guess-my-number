@@ -11,6 +11,6 @@ Jeśli kolejnym razem zgadniemy liczbę szybciej, np. za 2 razem, Highscore wyś
 
 Aby zagrac ponownie wystarczy nacisnąć przycisk Again!
 
-** Demo
+## Demo
 
 [Guess my number](https://r0galkj.github.io/Guess-my-number/)
