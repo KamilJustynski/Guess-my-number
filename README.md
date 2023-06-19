@@ -10,3 +10,7 @@ Jeśli odgadniemy liczbę za 5 razem Highscore wyświetli: 15!
 Jeśli kolejnym razem zgadniemy liczbę szybciej, np. za 2 razem, Highscore wyświetli: 18!
 
 Aby zagrac ponownie wystarczy nacisnąć przycisk Again!
+
+** Demo
+
+[Guess my number](https://r0galkj.github.io/Guess-my-number/)
