@@ -1,15 +1,12 @@
 # Guess-my-number
 
-Gra polega na odgadnięciu tajemniczej liczby od 1 do 20.
+The game involves guessing a mysterious number from 1 to 20.
 
-Za każdą próbą tracimy życie (łącznie żyć mamy 20), jeśli podamy liczbę, która jest mniejsza niż liczba do odgadnięcia dostaniemy o tym informację.
-Jeśli podana liczba będzie za mała, równiez dostaniemy o tym informację!
+We lose a life with each attempt (we have 20 lives in total), if we give a number that is smaller than the number to be guessed, we will receive information about it. If the given number is too small, we will also receive information about it!
 
-Highscore to miejsce na najlepszy uzyskany wynik, inaczej tłumacząc na najniższą ilość straconych żyć.
-Jeśli odgadniemy liczbę za 5 razem Highscore wyświetli: 15!
-Jeśli kolejnym razem zgadniemy liczbę szybciej, np. za 2 razem, Highscore wyświetli: 18!
+Highscore is the place for the best result obtained, in other words the lowest number of lives lost. If we guess the number 5 times, Highscore will display: 15! If we guess the number faster next time, e.g. the 2nd time, Highscore will display: 18!
 
-Aby zagrac ponownie wystarczy nacisnąć przycisk Again!
+To play again, just press the Again button!
 
 ## Demo
 
