@@ -10,4 +10,4 @@ To play again, just press the Again button!
 
 ## Demo
 
-[Guess my number](https://r0galkj.github.io/Guess-my-number/)
+[Guess my number](https://kamiljustynski.github.io/Guess-my-number/)
